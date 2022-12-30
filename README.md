@@ -1,1 +1,1 @@
-# computer-science-I
+# computer-science-I: Basic C++ programming
